@@ -1,0 +1,2 @@
+CREATE DATABASE polygon_db;
+GRANT ALL PRIVILEGES ON DATABASE polygon_db TO polygondev;
